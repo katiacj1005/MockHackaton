@@ -16,8 +16,8 @@ function Category() {
                 <input className ="description" type ="text"></input>
             </div>
             <div className='buttons'>
-            <button> Save </button>
-            <button> Delete </button>
+            <button className='btnSave'> Save </button>
+            <button className='btnDelete'> Delete </button>
             </div>
        {/*  <Footer />   */}
         </div>

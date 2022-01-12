@@ -39,3 +39,26 @@ h1 {
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     margin-bottom: 2rem;
 }
+.btnSave{ 
+    width: 214px;
+    height: 51px;
+    left: 484px;
+    top: 857px;
+    background: #5AC7BD;
+    border: 1px solid #FED3D5;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    margin: 33px;
+}
+.btnDelete{
+    width: 214px;
+    height: 51px;
+    left: 767px;
+    top: 857px;
+    background: #FED3D5;
+    border: 1px solid #5AC7BD;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
